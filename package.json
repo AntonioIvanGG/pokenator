@@ -1,0 +1,21 @@
+{
+  "name": "project_pokinator",
+  "version": "1.0.0",
+  "description": "Webpage inspired by akinator to find pokémon based on user answers ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "akinator",
+    "api",
+    "express",
+    "nodejs",
+    "pokemon"
+  ],
+  "author": "Karlo Paz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

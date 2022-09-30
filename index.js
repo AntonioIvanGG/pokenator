@@ -14,3 +14,5 @@ app.listen(3000,function(){
     console.log('Server is running')
 })
 console.log('Hola mundo')
+let a =1
+let b = 21

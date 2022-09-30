@@ -8,6 +8,7 @@ PATCH
 PUT
 DELETE
 */
+let i = 0
 app.get()
 app.listen(3000,function(){
     console.log('Server is running')
